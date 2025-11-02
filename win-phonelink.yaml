@@ -1,0 +1,7 @@
+payload:
+  - PROCESS-NAME,CrossDeviceFilesHost.exe
+  - PROCESS-NAME,CrossDeviceService.exe
+  - PROCESS-NAME,CrossDeviceSettingsHost.exe
+  - PROCESS-NAME,CrossDeviceStreamingHost.exe
+  - PROCESS-NAME,PhoneExperienceHost.exe
+  - PROCESS-NAME,YourPhoneAppProxy.exe
