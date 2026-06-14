@@ -5,6 +5,9 @@ on:
   schedule:
     - cron: "20 2,6,10,14,18,22 * * *"
 
+permissions:
+  contents: write
+
 jobs:
   build-and-publish-universal-rulesets:
     runs-on: ubuntu-latest
