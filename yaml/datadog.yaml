@@ -1,0 +1,7 @@
+payload:
+    - +.browser-intake-datadoghq.com
+    - +.datadog.com
+    - +.datadoghq-browser-agent.com
+    - +.datadoghq.com
+    - +.datadoghq.eu
+    - +.ddog-gov.com
